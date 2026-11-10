@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ArenaHub.Application/ArenaHub.Application.csproj" />
+  <Project Path="ArenaHub.Domain/ArenaHub.Domain.csproj" />
+  <Project Path="ArenaHub.Infrastructure/ArenaHub.Infrastructure.csproj" />
+  <Project Path="ArenaHub.Presentation/ArenaHub.Presentation.csproj" />
+  <Project Path="ArenaHub.Tests/ArenaHub.Tests.csproj" />
+</Solution>
